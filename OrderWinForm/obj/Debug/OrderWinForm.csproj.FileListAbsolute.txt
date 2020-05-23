@@ -1,0 +1,11 @@
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\bin\Debug\OrderWinForm.exe.config
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\bin\Debug\OrderWinForm.exe
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\bin\Debug\OrderWinForm.pdb
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.csprojAssemblyReference.cache
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.OrderServer.resources
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.Properties.Resources.resources
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.csproj.GenerateResource.cache
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.exe
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.pdb
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.OrderEditor.resources
+C:\Users\UPiracy\source\repos\OrderWinForm\OrderWinForm\obj\Debug\OrderWinForm.OrderSelector.resources
